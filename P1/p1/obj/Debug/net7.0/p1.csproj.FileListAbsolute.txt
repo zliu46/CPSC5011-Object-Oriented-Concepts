@@ -1,0 +1,15 @@
+/Users/zhouliu/Projects/p1/p1/bin/Debug/net7.0/p1
+/Users/zhouliu/Projects/p1/p1/bin/Debug/net7.0/p1.deps.json
+/Users/zhouliu/Projects/p1/p1/bin/Debug/net7.0/p1.runtimeconfig.json
+/Users/zhouliu/Projects/p1/p1/bin/Debug/net7.0/p1.dll
+/Users/zhouliu/Projects/p1/p1/bin/Debug/net7.0/p1.pdb
+/Users/zhouliu/Projects/p1/p1/obj/Debug/net7.0/p1.csproj.AssemblyReference.cache
+/Users/zhouliu/Projects/p1/p1/obj/Debug/net7.0/p1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhouliu/Projects/p1/p1/obj/Debug/net7.0/p1.AssemblyInfoInputs.cache
+/Users/zhouliu/Projects/p1/p1/obj/Debug/net7.0/p1.AssemblyInfo.cs
+/Users/zhouliu/Projects/p1/p1/obj/Debug/net7.0/p1.csproj.CoreCompileInputs.cache
+/Users/zhouliu/Projects/p1/p1/obj/Debug/net7.0/p1.dll
+/Users/zhouliu/Projects/p1/p1/obj/Debug/net7.0/refint/p1.dll
+/Users/zhouliu/Projects/p1/p1/obj/Debug/net7.0/p1.pdb
+/Users/zhouliu/Projects/p1/p1/obj/Debug/net7.0/p1.genruntimeconfig.cache
+/Users/zhouliu/Projects/p1/p1/obj/Debug/net7.0/ref/p1.dll
